@@ -1,3 +1,9 @@
+html body{
+    background-color: rgb(0, 0, 0);
+}
+
 .alert {
-    color: blue;
+    background-color: orangered;
+    height: 15%;
+    color: white;
 }
